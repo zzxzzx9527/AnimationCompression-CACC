@@ -1,0 +1,148 @@
+[
+  {
+    "source": "ours/cost_method_optimization_20261117/kernel.cpp",
+    "destination": "native/kernel.cpp",
+    "original_sha256": "7f26483f25be30c2e8ec7dc8c858ee721200113e62ab1d945ff5a8ef60f5c35d",
+    "packaged_sha256": "cc6cf68f60ba9ea2c1c42a7f6f181109f970207d1635b95342b5dfc204e50220",
+    "changes": "Verbatim copy. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "ours/cost_method_optimization_20261117/range_kernel.cpp",
+    "destination": "native/range_kernel.cpp",
+    "original_sha256": "a09db2ace7a78538344cc3896666724479bad768354a75f130e47a89ec687450",
+    "packaged_sha256": "9caca7bf90f7b7a22b488b65677ac138ca6b28a0d52f06ccf219541779b9dab4",
+    "changes": "Verbatim copy. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "ours/activity_exact_speed_20261117/reciprocal.inc",
+    "destination": "native/reciprocal.inc",
+    "original_sha256": "a87f608368eb72535ae3cd0358487bcb32103559bb8ac31e23eefe599dfb43a4",
+    "packaged_sha256": "a87f608368eb72535ae3cd0358487bcb32103559bb8ac31e23eefe599dfb43a4",
+    "changes": "Verbatim copy."
+  },
+  {
+    "source": "avatar-control-codec/native/exact_kernel.cpp",
+    "destination": "native/exact_kernel.cpp",
+    "original_sha256": "5b25c74a520437e3681e6b4a9a2e7600a6d73dca07e2fabf75f4ea282b4eca4c",
+    "packaged_sha256": "04f7f5dfb9c50bb53e9bceb7d3f5a0dac1e976304ed1299d6298977906970d2a",
+    "changes": "Verbatim copy. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "ours/support_rank_rice_20261117/rice_kernel.cpp",
+    "destination": "native/rice_kernel.cpp",
+    "original_sha256": "8168308013b1beed01aff43e23cd5a218411457c8b1e53b8aacfcd625db21853",
+    "packaged_sha256": "2d7c54160646e98be181900ee4099e0e5c002d3426fdadb808aa90405e40972a",
+    "changes": "Package-relative imports/paths only; coding equations unchanged. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "ours/hb01_packet_latency_20261118/model_kernel.cpp",
+    "destination": "native/model_kernel.cpp",
+    "original_sha256": "dff38e4299e13689ff0c8a4f6a483f74b0bfd49786fb39a6089de2407b7612a2",
+    "packaged_sha256": "a20403f7222826bc79fb9021f6fd55c0b9a6f35c983fa3fe4fea1a3723750044",
+    "changes": "Package-relative imports/paths only; coding equations unchanged. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/model_stream.cpp",
+    "destination": "native/model_stream.cpp",
+    "original_sha256": "6a943c26f4ac1d20afe5c57c949d2dc58eda137f71cad16ca24c53a98396d1ab",
+    "packaged_sha256": "c2f0a3ca20baaeb96d40d03f73c293213613dd17f50287011181c0464186f065",
+    "changes": "Verbatim copy. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/deadline.cpp",
+    "destination": "native/deadline.cpp",
+    "original_sha256": "a8c2aa34a01463257a266cbd4d7393264b47f814ef1b80ca58d24497b2e1e795",
+    "packaged_sha256": "2789ac2e1fa43b322df57bd9455fa11573fdf66820f47f4398bed016aa82a45c",
+    "changes": "Updated CACC identifiers and, where applicable, retained support for legacy headers. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/advance_levels.inc",
+    "destination": "native/advance_levels.inc",
+    "original_sha256": "d0714454e4bea4d410181732a694b6a5d6cbd5125b9ed3fcb1161cbc9f79a35c",
+    "packaged_sha256": "91244b1c44adfd69d009ffa37eddbff1a4c8a92aa89728012dc86b1980e7700d",
+    "changes": "Verbatim copy. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/direct_parse.inc",
+    "destination": "native/direct_parse.inc",
+    "original_sha256": "54c2cd58a7f2382fd027ccc47399adbfb5b3781b191c30b97d9aade225666862",
+    "packaged_sha256": "e60cdb878f4569afc36484b406323890f9e8762f78c0990320ae7add559e97af",
+    "changes": "Updated CACC identifiers and, where applicable, retained support for legacy headers. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/live.cpp",
+    "destination": "native/live.cpp",
+    "original_sha256": "b05a83a7e2a5fc39b0d2802235b01f4961259966f0e1ff459f36d252378f0482",
+    "packaged_sha256": "5c497e87a97da32ec68f2e6dc90d89cd914817913bd6b5a3f3cbed43cc7c3f75",
+    "changes": "Updated CACC identifiers and, where applicable, retained support for legacy headers. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/buffer_bridge.cpp",
+    "destination": "native/buffer_bridge.cpp",
+    "original_sha256": "7d05bd0a3ac43d066fd44b31540c2c6205f309ba0ca16aae02ea197d98a58e6b",
+    "packaged_sha256": "2059daa70f1c0718266d232914e0ca405bd35c1cd829d4c12bc0df4ceccbbf2e",
+    "changes": "Updated CACC identifiers and, where applicable, retained support for legacy headers."
+  },
+  {
+    "source": "ours/deadline_explicit_end_20261118/codec.py",
+    "destination": "src/avatar_codec/_batch.py",
+    "original_sha256": "8c75f9916ada7868dd211fa4c86735a8334a3c4a7dfeca7f7eb8ae793e195491",
+    "packaged_sha256": "26bd85537732fca5da7885b336fb97dbcf54ec3df335c3e4332bcbe3ecb574d1",
+    "changes": "Implements complete-file encoding and decoding for the shared-table stream."
+  },
+  {
+    "source": "ours/deadline_explicit_end_20261118/independent.py",
+    "destination": "src/avatar_codec/reference.py",
+    "original_sha256": "892a836cd78e5f106af94800abca8444e0d802318ae2b758a1c8867825b92bd4",
+    "packaged_sha256": "55cdbd5f28fcb4cb23ae2a1dd8bbbcf96fb368d0e5a754d23ba0d86d62dddbd6",
+    "changes": "Independently decodes the final stream using shared probability tables."
+  },
+  {
+    "source": "avatar-control-codec/native/deadline_context.inc",
+    "destination": "native/deadline_context.inc",
+    "original_sha256": "92e597b7516cfe51a7600ec7854027342894bd4a39642d6d06b81fd1eb7f983a",
+    "packaged_sha256": "c19af770e03167b77afa900ba653b2e3bac2d89037643ac5b0b1d6dc2fff54e9",
+    "changes": "Uses shared rank and activity contexts for every frame. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/native/low_memory_context.inc",
+    "destination": "native/low_memory_context.inc",
+    "original_sha256": "520f1cccf3c0f5d02862a2dd01225d404526d871e05c7de452ed355b71e2a4f4",
+    "packaged_sha256": "6f35acdd2842ca232fb2a44a5a3cd3df8bc81ea2615d1770d27759c26356851d",
+    "changes": "Allocates only shared probability tables in the bounded-memory build. The release includes the shared-table CACC path and its supporting primitives."
+  },
+  {
+    "source": "avatar-control-codec/src/avatar_codec/__init__.py",
+    "destination": "src/avatar_codec/__init__.py",
+    "original_sha256": "d84ad02850b290121aac8d3b6bc4d5757b0ffbdbb73645a172055db6cf88f563",
+    "packaged_sha256": "67872554cc8e684e0455584d4cf56b2b7d18ab9e71bc1a82e817f7d35e06ffca",
+    "changes": "Exports the batch and bounded-memory streaming interface."
+  },
+  {
+    "source": "avatar-control-codec/src/avatar_codec/_common.py",
+    "destination": "src/avatar_codec/_common.py",
+    "original_sha256": "bde0b4afdac739ad58355a1909ce43592bcea8403a95c3cc0feff69657aa4c3c",
+    "packaged_sha256": "17bd49b8d04596fcc80e855c9e6da0c23ac576ca1225f758d7f0960c8d9303aa",
+    "changes": "Defines the final CACC stream header and validates settings."
+  },
+  {
+    "source": "avatar-control-codec/src/avatar_codec/_native_loader.py",
+    "destination": "src/avatar_codec/_native_loader.py",
+    "original_sha256": "cdd9fd45286745219ff53132fc9803f5eab72a684631489e8ef65000cde5807e",
+    "packaged_sha256": "6af9bbb84dcd6a0c5a8e7580cf3e9fcdffb36a3d86662f6d704bea74f3132498",
+    "changes": "Verbatim copy."
+  },
+  {
+    "source": "avatar-control-codec/src/avatar_codec/low_memory.py",
+    "destination": "src/avatar_codec/low_memory.py",
+    "original_sha256": "2e62e55b4f135d3e3302bbe2914099ab37ac8149dab47bb4500a79b2bc667334",
+    "packaged_sha256": "6827c59cacb471bcc2381961d7dfb6d5b77a48c5ebf7ab2a769330833209c66a",
+    "changes": "Re-exports the single CACC streaming interface."
+  },
+  {
+    "source": "src/avatar_codec/low_memory.py and src/avatar_codec/_stream_ctypes.py in the preceding research package",
+    "destination": "src/avatar_codec/_stream.py",
+    "packaged_sha256": "d8d28116ce39f7996c64464cc3f0331598c35b821ecb73943a3b6f8cd7eebeb3",
+    "changes": "Consolidates streaming around the bounded-memory CACC implementation."
+  }
+]

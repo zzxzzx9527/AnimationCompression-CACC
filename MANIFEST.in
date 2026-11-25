@@ -1,0 +1,7 @@
+include README.md THIRD_PARTY_NOTICES.md LICENSE SOURCE_PROVENANCE.json
+include requirements*.txt pyproject.toml setup.py .gitignore
+include *.md
+recursive-include native *.cpp *.inc
+recursive-include scripts *.py
+recursive-include examples *.py
+recursive-include tests *.py *.json *.npz *.cacc
